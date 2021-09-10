@@ -1,0 +1,41 @@
+body {
+	background-color: #dddddd;
+	margin: 0 20vw;
+	color: #213112;
+}
+
+h1 {
+	margin: 2em auto;
+	width: max-content;
+	color: #2f8acf;
+}
+
+h2 {
+	margin-top: 2em;
+	text-align: center;
+	color: #635231
+}
+
+table {
+	width: 100%;
+}
+
+tr {
+	margin: 0;
+	border: thin solid black;
+}
+
+th {
+	padding-bottom: 10px;
+}
+
+img {
+	height: 10vh;
+	padding: 4px;
+	margin: 15px;
+	border: thin solid black;
+}
+
+.center {
+	text-align: center;
+}
